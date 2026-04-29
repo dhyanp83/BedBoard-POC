@@ -1,0 +1,23 @@
+{
+  "name": "bed-management-portal-poc",
+  "version": "1.0.0",
+  "description": "PHIA-conscious bed availability portal proof of concept.",
+  "main": "server.js",
+  "scripts": {
+    "build": "node -e \"console.log('No build step required')\"",
+    "start": "node server.js",
+    "dev": "node server.js",
+    "seed": "node server.js --seed-only",
+    "demo:open-beds": "node scripts/randomize-open-beds.js"
+  },
+  "engines": {
+    "node": ">=20 <25"
+  },
+  "keywords": [
+    "bed-management",
+    "healthcare",
+    "poc"
+  ],
+  "author": "",
+  "license": "UNLICENSED"
+}
