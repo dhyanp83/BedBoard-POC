@@ -1,0 +1,1242 @@
+﻿[
+    {
+        "sdoCode":  "IERHA",
+        "source":  "PCH BED MAP_LCB_IERHA_April 2026.xlsx",
+        "name":  "Ashern Personal Care Home",
+        "address":  "1 Steenson Drive",
+        "operator":  "Interlake Eastern Regional Health Authority",
+        "generalBeds":  20,
+        "respiteBeds":  0,
+        "totalBeds":  20
+    },
+    {
+        "sdoCode":  "IERHA",
+        "source":  "PCH BED MAP_LCB_IERHA_April 2026.xlsx",
+        "name":  "Betel Home (Gimli)",
+        "address":  "96-1st Avenue",
+        "operator":  "Betel Home Foundation",
+        "generalBeds":  80,
+        "respiteBeds":  0,
+        "totalBeds":  80
+    },
+    {
+        "sdoCode":  "IERHA",
+        "source":  "PCH BED MAP_LCB_IERHA_April 2026.xlsx",
+        "name":  "Betel Home (Selkirk)",
+        "address":  "212 Manchester Avenue",
+        "operator":  "Betel Home Foundation",
+        "generalBeds":  90,
+        "respiteBeds":  1,
+        "totalBeds":  91
+    },
+    {
+        "sdoCode":  "IERHA",
+        "source":  "PCH BED MAP_LCB_IERHA_April 2026.xlsx",
+        "name":  "East-Gate Lodge Personal Care Home",
+        "address":  "646 James Avenue",
+        "operator":  "Interlake Eastern Regional Health Authority",
+        "generalBeds":  60,
+        "respiteBeds":  0,
+        "totalBeds":  80
+    },
+    {
+        "sdoCode":  "IERHA",
+        "source":  "PCH BED MAP_LCB_IERHA_April 2026.xlsx",
+        "name":  "Eriksdale Personal Care Home",
+        "address":  "40 Railway Avenue",
+        "operator":  "Interlake Eastern Regional Health Authority",
+        "generalBeds":  20,
+        "respiteBeds":  0,
+        "totalBeds":  20
+    },
+    {
+        "sdoCode":  "IERHA",
+        "source":  "PCH BED MAP_LCB_IERHA_April 2026.xlsx",
+        "name":  "Extendicare Red River Place",
+        "address":  "133 Manchester Avenue",
+        "operator":  "Red River Manor Incorporated (a subsidiary of Extendicare (Canada) Inc.)",
+        "generalBeds":  104,
+        "respiteBeds":  0,
+        "totalBeds":  104
+    },
+    {
+        "sdoCode":  "IERHA",
+        "source":  "PCH BED MAP_LCB_IERHA_April 2026.xlsx",
+        "name":  "Fisher Personal Care Home",
+        "address":  "7 Chalet Drive",
+        "operator":  "Interlake Eastern Regional Health Authority",
+        "generalBeds":  29,
+        "respiteBeds":  1,
+        "totalBeds":  30
+    },
+    {
+        "sdoCode":  "IERHA",
+        "source":  "PCH BED MAP_LCB_IERHA_April 2026.xlsx",
+        "name":  "Goodwin Lodge Personal Care Home",
+        "address":  "162-3rd Avenue South East",
+        "operator":  "Interlake Eastern Regional Health Authority",
+        "generalBeds":  20,
+        "respiteBeds":  0,
+        "totalBeds":  20
+    },
+    {
+        "sdoCode":  "IERHA",
+        "source":  "PCH BED MAP_LCB_IERHA_April 2026.xlsx",
+        "name":  "Kin Place Personal Care Home",
+        "address":  "680 Pine Drive",
+        "operator":  "Interlake Eastern Regional Health Authority",
+        "generalBeds":  40,
+        "respiteBeds":  0,
+        "totalBeds":  40
+    },
+    {
+        "sdoCode":  "IERHA",
+        "source":  "PCH BED MAP_LCB_IERHA_April 2026.xlsx",
+        "name":  "Lac Du Bonnet Personal Care Home",
+        "address":  "75 McIntosh Street",
+        "operator":  "Interlake Eastern Regional Health Authority",
+        "generalBeds":  30,
+        "respiteBeds":  0,
+        "totalBeds":  30
+    },
+    {
+        "sdoCode":  "IERHA",
+        "source":  "PCH BED MAP_LCB_IERHA_April 2026.xlsx",
+        "name":  "Lundar Personal Care Home",
+        "address":  "97 - 1st Street South",
+        "operator":  "Interlake Eastern Regional Health Authority",
+        "generalBeds":  20,
+        "respiteBeds":  0,
+        "totalBeds":  20
+    },
+    {
+        "sdoCode":  "IERHA",
+        "source":  "PCH BED MAP_LCB_IERHA_April 2026.xlsx",
+        "name":  "Pioneer Health Services - Arborg",
+        "address":  "233 St. Phillips Drive",
+        "operator":  "Interlake Eastern Regional Health Authority",
+        "generalBeds":  40,
+        "respiteBeds":  0,
+        "totalBeds":  40
+    },
+    {
+        "sdoCode":  "IERHA",
+        "source":  "PCH BED MAP_LCB_IERHA_April 2026.xlsx",
+        "name":  "Rosewood Lodge",
+        "address":  "513 - 1st Avenue North",
+        "operator":  "Interlake Eastern Regional Health Authority",
+        "generalBeds":  30,
+        "respiteBeds":  0,
+        "totalBeds":  50
+    },
+    {
+        "sdoCode":  "IERHA",
+        "source":  "PCH BED MAP_LCB_IERHA_April 2026.xlsx",
+        "name":  "Sunnywood Manor Personal Care Home",
+        "address":  "37 Maple Street",
+        "operator":  "Interlake Eastern Regional Health Authority",
+        "generalBeds":  20,
+        "respiteBeds":  0,
+        "totalBeds":  20
+    },
+    {
+        "sdoCode":  "IERHA",
+        "source":  "PCH BED MAP_LCB_IERHA_April 2026.xlsx",
+        "name":  "Tudor House Personal Care Home",
+        "address":  "800 Manitoba Avenue",
+        "operator":  "Tudor House Personal Care Home Health Corporation",
+        "generalBeds":  76,
+        "respiteBeds":  0,
+        "totalBeds":  76
+    },
+    {
+        "sdoCode":  "IERHA",
+        "source":  "PCH BED MAP_LCB_IERHA_April 2026.xlsx",
+        "name":  "Whitemouth District Health Centre Personal Care Home",
+        "address":  "75 Hospital Street",
+        "operator":  "Interlake Eastern Regional Health Authority",
+        "generalBeds":  26,
+        "respiteBeds":  0,
+        "totalBeds":  26
+    },
+    {
+        "sdoCode":  "NRHA",
+        "source":  "PCH BED MAP_LCB_NRHA_FEB 2026.xlsx",
+        "name":  "Flin Flon Personal Care Home",
+        "address":  "50 Church Street, Flin Flon",
+        "operator":  "Northern Regional Health Authority",
+        "generalBeds":  29,
+        "respiteBeds":  1,
+        "totalBeds":  30
+    },
+    {
+        "sdoCode":  "NRHA",
+        "source":  "PCH BED MAP_LCB_NRHA_FEB 2026.xlsx",
+        "name":  "Nisichawayasihk Personal Care Home",
+        "address":  "2 Otetiskiwin Drive, Nelson House",
+        "operator":  "Nisichawayasihk Personal Care Home",
+        "generalBeds":  24,
+        "respiteBeds":  0,
+        "totalBeds":  24
+    },
+    {
+        "sdoCode":  "NRHA",
+        "source":  "PCH BED MAP_LCB_NRHA_FEB 2026.xlsx",
+        "name":  "Northern Lights Manor",
+        "address":  "274 Bracken Street, Flin Flon",
+        "operator":  "Northern Regional Health Authority",
+        "generalBeds":  36,
+        "respiteBeds":  0,
+        "totalBeds":  36
+    },
+    {
+        "sdoCode":  "NRHA",
+        "source":  "PCH BED MAP_LCB_NRHA_FEB 2026.xlsx",
+        "name":  "Northern Spirit Manor",
+        "address":  "879 Thompson Drive South, Thompson",
+        "operator":  "Northern Regional Health Authority",
+        "generalBeds":  34,
+        "respiteBeds":  1,
+        "totalBeds":  35
+    },
+    {
+        "sdoCode":  "NRHA",
+        "source":  "PCH BED MAP_LCB_NRHA_FEB 2026.xlsx",
+        "name":  "Pinaow Wachi Personal Care Home",
+        "address":  "Building 305 Rossville, Norway House",
+        "operator":  "Pinaow Wachi Personal Care Home",
+        "generalBeds":  25,
+        "respiteBeds":  1,
+        "totalBeds":  26
+    },
+    {
+        "sdoCode":  "NRHA",
+        "source":  "PCH BED MAP_LCB_NRHA_FEB 2026.xlsx",
+        "name":  "St. Paul\u0027s Residence",
+        "address":  "34 - 2nd Street, The Pas",
+        "operator":  "Northern Regional Health Authority",
+        "generalBeds":  60,
+        "respiteBeds":  0,
+        "totalBeds":  60
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Baldur Manor",
+        "address":  "531 Elizabeth Avenue East, Baldur",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  20,
+        "respiteBeds":  0,
+        "totalBeds":  20
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Bayside Personal Care Home",
+        "address":  "86 Ellis Drive, Killarney",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  60,
+        "respiteBeds":  0,
+        "totalBeds":  60
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Benito Health Centre",
+        "address":  "200 1st Street South East, Benito",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  20,
+        "respiteBeds":  0,
+        "totalBeds":  20
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Birch Lodge Personal Care Home",
+        "address":  "177 Birch Avenue, Hamiota",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  30,
+        "respiteBeds":  0,
+        "totalBeds":  30
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Bren-Del-Win Lodge",
+        "address":  "103 Kellet Street South, Deloraine",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  30,
+        "respiteBeds":  0,
+        "totalBeds":  30
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Carberry Personal Care Home",
+        "address":  "340 Toronto Street, Carberry",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  36,
+        "respiteBeds":  0,
+        "totalBeds":  36
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Country Meadows Personal Care Home",
+        "address":  "500 Veterans Way, Neepawa",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  99,
+        "respiteBeds":  1,
+        "totalBeds":  100
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Crocus Court Personal Care Home",
+        "address":  "15 Hospital Street, Roblin",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  60,
+        "respiteBeds":  0,
+        "totalBeds":  60
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Dauphin Personal Care Home",
+        "address":  "625 - 3rd Street South West, Dauphin",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  89,
+        "respiteBeds":  1,
+        "totalBeds":  90
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Delwynda Court Personal Care Home",
+        "address":  "109 Kellett Street South, Deloraine",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  16,
+        "respiteBeds":  0,
+        "totalBeds":  16
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Dinsdale Personal Care Home",
+        "address":  "510 - 6th Street, Brandon",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  60,
+        "respiteBeds":  0,
+        "totalBeds":  60
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Dr. Gendreau Personal Care Home",
+        "address":  "515 Mission Street, Ste. Rose",
+        "operator":  "Dr. Gendreau Memorial Personal Care Home Incorporated",
+        "generalBeds":  65,
+        "respiteBeds":  0,
+        "totalBeds":  65
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Elkwood Manor",
+        "address":  "12 Antrim Street, Elkhorn",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  24,
+        "respiteBeds":  0,
+        "totalBeds":  24
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Erickson \u0026 District Health Centre",
+        "address":  "60 Queen Elizabeth Road, Erickson",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  16,
+        "respiteBeds":  0,
+        "totalBeds":  16
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Evergreen Place Personal Care Home",
+        "address":  "305 Mill Road, Boissevain",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  20,
+        "respiteBeds":  0,
+        "totalBeds":  20
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Extendicare Hillcrest Place Inc.",
+        "address":  "930-26th Street, Brandon",
+        "operator":  "Extendicare Canada Inc.",
+        "generalBeds":  100,
+        "respiteBeds":  0,
+        "totalBeds":  100
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Extendicare Valleyview Care Centre",
+        "address":  "3015 Victoria Avenue, Brandon",
+        "operator":  "Extendicare Canada Inc.",
+        "generalBeds":  89,
+        "respiteBeds":  0,
+        "totalBeds":  89
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Fairview Home",
+        "address":  "1351 - 13th Street, Brandon",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  247,
+        "respiteBeds":  1,
+        "totalBeds":  248
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Gilbert Plains Health Centre",
+        "address":  "100 Cutforth Street North, Gilbert Plains",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  30,
+        "respiteBeds":  0,
+        "totalBeds":  30
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Glenboro Personal Care Home",
+        "address":  "219 Murray Street, Glenboro",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  20,
+        "respiteBeds":  0,
+        "totalBeds":  20
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Grandview Personal Care Home",
+        "address":  "308 Jackson Street, Grandview",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  39,
+        "respiteBeds":  0,
+        "totalBeds":  39
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Hartney Community Health Centre",
+        "address":  "617 River Avenue, Hartney",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  20,
+        "respiteBeds":  0,
+        "totalBeds":  20
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "McCreary/Alonsa Personal Care Home",
+        "address":  "613 PTH 50, McCreary",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  20,
+        "respiteBeds":  0,
+        "totalBeds":  20
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Melita Personal Care Home",
+        "address":  "147 Summit Street, Melita",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  20,
+        "respiteBeds":  0,
+        "totalBeds":  20
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Minnedosa Personal Care Home",
+        "address":  "138 - 3rd Avenue South West, Minnedosa",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  50,
+        "respiteBeds":  0,
+        "totalBeds":  50
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Morley House Personal Care Home",
+        "address":  "524 Mary Street, Shoal Lake",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  40,
+        "respiteBeds":  0,
+        "totalBeds":  40
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Rideau Park Personal Care Home",
+        "address":  "525 Victoria Avenue East, Brandon",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  100,
+        "respiteBeds":  0,
+        "totalBeds":  100
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Riverdale Personal Care Home",
+        "address":  "512 Quebec Street, Rivers",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  20,
+        "respiteBeds":  0,
+        "totalBeds":  20
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Rossburn Personal Care Home",
+        "address":  "116 Parkview Drive, Rossburn",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  20,
+        "respiteBeds":  0,
+        "totalBeds":  20
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Russell Personal Care Home",
+        "address":  "113 Arsini Street East, Russell",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  40,
+        "respiteBeds":  0,
+        "totalBeds":  40
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Sandy Lake Personal Care Home",
+        "address":  "106 - 1st Street West, Sandy Lake",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  35,
+        "respiteBeds":  0,
+        "totalBeds":  35
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Sherwood Nursing Home",
+        "address":  "223 Hargrave Street East, Virden",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  45,
+        "respiteBeds":  0,
+        "totalBeds":  45
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Souris Personal Care Home",
+        "address":  "155 Brindle Avenue East, Souris",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  43,
+        "respiteBeds":  0,
+        "totalBeds":  43
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "St. Paul\u0027s Home",
+        "address":  "703 Jackson Street, Dauphin",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  70,
+        "respiteBeds":  0,
+        "totalBeds":  70
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Sunnyside Manor",
+        "address":  "843 Gertrude Street, Birtle",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  20,
+        "respiteBeds":  0,
+        "totalBeds":  20
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Swan Valley Lodge (1991) Inc.",
+        "address":  "1013 Main Street, Swan River",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  70,
+        "respiteBeds":  0,
+        "totalBeds":  70
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Swan Valley Personal Care Home Inc.",
+        "address":  "334-8th Avenue South, Swan River",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  44,
+        "respiteBeds":  1,
+        "totalBeds":  45
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Tiger Hills Manor",
+        "address":  "64 Clark Street, Treherne",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  22,
+        "respiteBeds":  0,
+        "totalBeds":  22
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Wawanesa Health Centre",
+        "address":  "506 George Street, Wawanesa",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  20,
+        "respiteBeds":  0,
+        "totalBeds":  20
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "West-Man Nursing Home",
+        "address":  "427 Frame Street East, Virden",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  49,
+        "respiteBeds":  0,
+        "totalBeds":  49
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Westview Lodge",
+        "address":  "200 Struthers Street, Boissevain",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  39,
+        "respiteBeds":  0,
+        "totalBeds":  39
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Willowview Personal Care Home",
+        "address":  "523-1st Street North, Reston",
+        "operator":  "Prairie Mountain Health",
+        "generalBeds":  20,
+        "respiteBeds":  0,
+        "totalBeds":  20
+    },
+    {
+        "sdoCode":  "PMH",
+        "source":  "PCH BED MAP_LCB_PMH_FEB2026.xlsx",
+        "name":  "Winnipegosis \u0026 District Personal Care Home",
+        "address":  "230 Bridge Street, Winnipegosis",
+        "operator":  "Winnipegosis \u0026 District Health Centre",
+        "generalBeds":  20,
+        "respiteBeds":  0,
+        "totalBeds":  20
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "Bethesda Place",
+        "address":  "399 Hospital Street, Steinbach",
+        "operator":  "Southern Health-Santé Sud",
+        "generalBeds":  59,
+        "respiteBeds":  1,
+        "totalBeds":  60
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "Boyne Lodge Personal Care Home",
+        "address":  "120 - 4th Ave. South West, Carman",
+        "operator":  "Southern Health-Santé Sud",
+        "generalBeds":  103,
+        "respiteBeds":  2,
+        "totalBeds":  105
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "Douglas Campbell Lodge",
+        "address":  "150 - 9th Street South East Portage la Prairie",
+        "operator":  "Southern Health-Santé Sud",
+        "generalBeds":  48,
+        "respiteBeds":  0,
+        "totalBeds":  60
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "Eastview Place",
+        "address":  "240-5th Avenue North East, Altona",
+        "operator":  "Southern Health-Santé Sud",
+        "generalBeds":  53,
+        "respiteBeds":  0,
+        "totalBeds":  65
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "Emerson Health Centre",
+        "address":  "26 Main Street, Emerson",
+        "operator":  "Southern Health-Santé Sud",
+        "generalBeds":  20,
+        "respiteBeds":  0,
+        "totalBeds":  20
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "Foyer Notre Dame",
+        "address":  "40 Rogers Street, Notre Dame de Lourdes",
+        "operator":  "Southern Health-Santé Sud",
+        "generalBeds":  48,
+        "respiteBeds":  0,
+        "totalBeds":  60
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "Heritage Life Personal Care Home",
+        "address":  "100A Heritage Trail, Niverville",
+        "operator":  "Niverville Heritage PCH Inc.",
+        "generalBeds":  60,
+        "respiteBeds":  0,
+        "totalBeds":  80
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "Lions Prairie Manor",
+        "address":  "24 - 9th Street South East Portage la Prairie",
+        "operator":  "Southern Health-Santé Sud",
+        "generalBeds":  134,
+        "respiteBeds":  2,
+        "totalBeds":  136
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "MacGregor Personal Care Home",
+        "address":  "87 Grafton Street South, MacGregor",
+        "operator":  "Southern Health-Santé Sud",
+        "generalBeds":  20,
+        "respiteBeds":  0,
+        "totalBeds":  20
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "Menno Home for the Aged",
+        "address":  "235 Park Street, Grunthal",
+        "operator":  "Menno Home for the Aged, Grunthal, Man.",
+        "generalBeds":  40,
+        "respiteBeds":  0,
+        "totalBeds":  40
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "Pembina-Manitou Health Centre",
+        "address":  "232 Carrie Street, Manitou",
+        "operator":  "Southern Health-Santé Sud",
+        "generalBeds":  18,
+        "respiteBeds":  0,
+        "totalBeds":  18
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "Prairie View Lodge",
+        "address":  "Apt. 26 - 424 Broadway Avenue West Pilot Mound",
+        "operator":  "Prairie View Lodge",
+        "generalBeds":  18,
+        "respiteBeds":  0,
+        "totalBeds":  30
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "Red River Valley Lodge",
+        "address":  "136 Ottawa Street West, Morris",
+        "operator":  "Southern Health-Santé Sud",
+        "generalBeds":  40,
+        "respiteBeds":  0,
+        "totalBeds":  40
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "Repos Jolys",
+        "address":  "354 Prefontaine Avenue, St. Pierre Jolys",
+        "operator":  "Southern Health-Santé Sud",
+        "generalBeds":  22,
+        "respiteBeds":  0,
+        "totalBeds":  22
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "Rest Haven Care Home",
+        "address":  "185 Woodhaven Avenue, Steinbach",
+        "operator":  "Rest Haven Nursing Home of Steinbach Inc.",
+        "generalBeds":  143,
+        "respiteBeds":  0,
+        "totalBeds":  143
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "Rock Lake Health District Personal Care Home",
+        "address":  "Apt 27, 115 Brown Street South Pilot Mound",
+        "operator":  "Rock Lake Personal Care Home Inc.",
+        "generalBeds":  24,
+        "respiteBeds":  0,
+        "totalBeds":  24
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "Salem Home Inc.",
+        "address":  "165 - 15th Street, Winkler",
+        "operator":  "Salem Home Inc.",
+        "generalBeds":  109,
+        "respiteBeds":  1,
+        "totalBeds":  146
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "St. Claude Pavilion",
+        "address":  "33 Roy Street, St. Claude",
+        "operator":  "Southern Health-Santé Sud",
+        "generalBeds":  18,
+        "respiteBeds":  0,
+        "totalBeds":  18
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "Tabor Home Inc.",
+        "address":  "450 Loren Street, Morden",
+        "operator":  "Tabor Home Inc.",
+        "generalBeds":  100,
+        "respiteBeds":  0,
+        "totalBeds":  100
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "Third Crossing Manor",
+        "address":  "175 Dennis Street West, Gladstone",
+        "operator":  "Southern Health-Santé Sud",
+        "generalBeds":  50,
+        "respiteBeds":  0,
+        "totalBeds":  50
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "Villa Youville",
+        "address":  "15 Chemin Charriére Road, Ste. Anne",
+        "operator":  "Villa Youville Incorporated",
+        "generalBeds":  66,
+        "respiteBeds":  0,
+        "totalBeds":  66
+    },
+    {
+        "sdoCode":  "SH-SS",
+        "source":  "PCH BED MAP_LCB_SH-SS_FEB 2026.xlsx",
+        "name":  "Vita \u0026 District Health Centre",
+        "address":  "217 First Avenue West, Vita",
+        "operator":  "Southern Health-Santé Sud",
+        "generalBeds":  44,
+        "respiteBeds":  0,
+        "totalBeds":  44
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Actionmarguerite (Saint-Boniface) Inc.",
+        "address":  "185 rue Despins Street, Winnipeg, R2H 2B3",
+        "operator":  "Actionmarguerite (Saint-Boniface) Inc.",
+        "generalBeds":  204,
+        "respiteBeds":  0,
+        "totalBeds":  299
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Actionmarguerite (Saint-Vital) Inc.",
+        "address":  "450 chemin River Road, Winnipeg, R2M 5M4",
+        "operator":  "Actionmarguerite (Saint-Vital) Inc.",
+        "generalBeds":  154,
+        "respiteBeds":  0,
+        "totalBeds":  154
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Actionmarguerite (St. Joseph) Inc.",
+        "address":  "1149 Leila Avenue, Winnipeg, R2P 1S6",
+        "operator":  "Actionmarguerite (St. Joseph) Inc.",
+        "generalBeds":  100,
+        "respiteBeds":  0,
+        "totalBeds":  100
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Bethania Mennonite Personal Care Home",
+        "address":  "1045 Concordia Avenue, Winnipeg, R2K 3S7",
+        "operator":  "Bethania Mennonite Personal Care Home, Inc.",
+        "generalBeds":  148,
+        "respiteBeds":  0,
+        "totalBeds":  148
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Calvary Place Personal Care Home",
+        "address":  "1325 Erin Street, Winnipeg, R3E 3R6",
+        "operator":  "3885136 Manitoba Association Inc.",
+        "generalBeds":  100,
+        "respiteBeds":  0,
+        "totalBeds":  100
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Concordia Place",
+        "address":  "1000 Molson Street, Winnipeg, R2K 4L5",
+        "operator":  "Concordia Hospital",
+        "generalBeds":  140,
+        "respiteBeds":  0,
+        "totalBeds":  140
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Deer Lodge Centre",
+        "address":  "2109 Portage Avenue, Winnipeg, R3J 0L3",
+        "operator":  "Winnipeg Regional Health Authority c.o.b. Deer Lodge Centre",
+        "generalBeds":  95,
+        "respiteBeds":  0,
+        "totalBeds":  208
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Donwood Manor Personal Care Home",
+        "address":  "171 Donwood Drive, Winnipeg, R2G 0V9",
+        "operator":  "Donwood Manor Personal Care Home Inc.",
+        "generalBeds":  121,
+        "respiteBeds":  0,
+        "totalBeds":  121
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Extendicare Beacon Hill Lodge",
+        "address":  "190 Fort Street, Winnipeg, R3C 1C9",
+        "operator":  "Axium Extendicare LTC II LP, by its general partners Extendicare LTC Managing II GP Inc. and Axium Extendicare LTC II GP Inc.",
+        "generalBeds":  175,
+        "respiteBeds":  0,
+        "totalBeds":  175
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Extendicare Charleswood Care Centre",
+        "address":  "5501 Roblin Street, Winnipeg, R3R 0G8",
+        "operator":  "Axium Extendicare LTC II LP, by its general partners Extendicare LTC Managing II GP Inc. and Axium Extendicare LTC II GP Inc.",
+        "generalBeds":  124,
+        "respiteBeds":  0,
+        "totalBeds":  155
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Extendicare Heritage Lodge",
+        "address":  "3555 Portage Avenue, Winnipeg, R3K 0X2",
+        "operator":  "Axium Extendicare LTC II LP, by its general partners Extendicare LTC Managing II GP Inc. and Axium Extendicare LTC II GP Inc.",
+        "generalBeds":  86,
+        "respiteBeds":  0,
+        "totalBeds":  86
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Extendicare Kildonan Personal Care Centre",
+        "address":  "1970 Henderson Highway, Winnipeg, R2G 1P2",
+        "operator":  "Axium Extendicare LTC II LP, by its general partners Extendicare LTC Managing II GP Inc. and Axium Extendicare LTC II GP Inc.",
+        "generalBeds":  120,
+        "respiteBeds":  0,
+        "totalBeds":  120
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Extendicare Maples Personal Care Home",
+        "address":  "500 Mandalay Drive, Winnipeg, R2P 1V4",
+        "operator":  "Axium Extendicare LTC II LP, by its general partners Extendicare LTC Managing II GP Inc. and Axium Extendicare LTC II GP Inc.",
+        "generalBeds":  200,
+        "respiteBeds":  0,
+        "totalBeds":  200
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Extendicare Oakview Place",
+        "address":  "2395 Ness Avenue, Winnipeg, R3J 1A5",
+        "operator":  "Extendicare (Canada) Inc.",
+        "generalBeds":  245,
+        "respiteBeds":  0,
+        "totalBeds":  245
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Extendicare Poseidon Care Centre",
+        "address":  "70 Poseidon Bay, Winnipeg, R3M 3E5",
+        "operator":  "Extendicare (Canada) Inc.",
+        "generalBeds":  200,
+        "respiteBeds":  0,
+        "totalBeds":  218
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Extendicare Tuxedo Villa",
+        "address":  "2060 Corydon Avenue, Winnipeg, R3P 0N3",
+        "operator":  "Extendicare (Canada) Inc.",
+        "generalBeds":  213,
+        "respiteBeds":  0,
+        "totalBeds":  213
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Extendicare Vista Park Lodge",
+        "address":  "144 Novavista Drive, Winnipeg, R2N 1P8",
+        "operator":  "Vista Park Developments Ltd. (a subsidiary of Extendicare (Canada) Inc.)",
+        "generalBeds":  100,
+        "respiteBeds":  0,
+        "totalBeds":  100
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Fred Douglas Lodge",
+        "address":  "1275 Burrows Avenue, Winnipeg, R2X 0B8",
+        "operator":  "Fred Douglas Society Inc.",
+        "generalBeds":  136,
+        "respiteBeds":  0,
+        "totalBeds":  136
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Golden Door Geriatric Centre",
+        "address":  "1679 Pembina Highway, Winnipeg, R3T 2G6",
+        "operator":  "Winnipeg Regional Health Authority",
+        "generalBeds":  78,
+        "respiteBeds":  0,
+        "totalBeds":  78
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Golden Links Lodge",
+        "address":  "2280 St. Mary\u0027s Road, Winnipeg, R2N 3Z6",
+        "operator":  "Oddfellows and Rebekahs Personal Care Home Inc.",
+        "generalBeds":  88,
+        "respiteBeds":  0,
+        "totalBeds":  88
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Golden West Centennial Lodge",
+        "address":  "811 School Road, Winnipeg, R2Y 0S8",
+        "operator":  "Winnipeg Regional Health Authority",
+        "generalBeds":  116,
+        "respiteBeds":  0,
+        "totalBeds":  116
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Holy Family Nursing Home",
+        "address":  "165 Aberdeen Avenue, Winnipeg, R2W 1T9",
+        "operator":  "Holy Family Home Inc.",
+        "generalBeds":  284,
+        "respiteBeds":  2,
+        "totalBeds":  317
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Lions Personal Care Home",
+        "address":  "320 Sherbrook Street, Winnipeg, R3B 2W6",
+        "operator":  "LHC Personal Care Home Inc.",
+        "generalBeds":  116,
+        "respiteBeds":  0,
+        "totalBeds":  116
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Luther Home",
+        "address":  "1081 Andrews Street, Winnipeg,R2V 2G9",
+        "operator":  "Luther Home",
+        "generalBeds":  80,
+        "respiteBeds":  0,
+        "totalBeds":  80
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Meadowood Manor",
+        "address":  "577 St. Anne\u0027s Road, Winnipeg, R2M 3G5",
+        "operator":  "Manitoba Baptist Home Society Inc.",
+        "generalBeds":  88,
+        "respiteBeds":  0,
+        "totalBeds":  88
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Misericordia Place",
+        "address":  "44 Furby Street, Winnipeg, R3C 2A1",
+        "operator":  "Misericordia General Hospital",
+        "generalBeds":  100,
+        "respiteBeds":  0,
+        "totalBeds":  100
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Park Manor Care",
+        "address":  "301 Redonda Street, Winnipeg, R2C 1L7",
+        "operator":  "Park Manor Care Inc.",
+        "generalBeds":  100,
+        "respiteBeds":  0,
+        "totalBeds":  100
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Pembina Place Mennonite Personal Care Home",
+        "address":  "285 Pembina Highway, Winnipeg, R3L 2E1",
+        "operator":  "Pembina Place Mennonite Personal Care Home",
+        "generalBeds":  57,
+        "respiteBeds":  0,
+        "totalBeds":  57
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "River East Personal Care Home Ltd.",
+        "address":  "1375 Molson Street, Winnipeg, R2K 4K8",
+        "operator":  "River East Personal Care Home Ltd.",
+        "generalBeds":  120,
+        "respiteBeds":  0,
+        "totalBeds":  120
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "River Park Gardens",
+        "address":  "735 St. Anne\u0027s Road, Winnipeg, R2N 0C4",
+        "operator":  "Winnipeg Regional Health Authority",
+        "generalBeds":  80,
+        "respiteBeds":  0,
+        "totalBeds":  80
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Riverview Health Centre Inc.",
+        "address":  "1 Morley Avenue, Winnipeg, R3L 2P4",
+        "operator":  "Riverview Health Centre Inc.",
+        "generalBeds":  197,
+        "respiteBeds":  0,
+        "totalBeds":  257
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Saul and Claribel Simkin Centre",
+        "address":  "1 Falcon Ridge Drive, Winnipeg, R3Y 1V9",
+        "operator":  "The Saul and Claribel Simkin Centre Personal Care Home Inc.",
+        "generalBeds":  200,
+        "respiteBeds":  0,
+        "totalBeds":  200
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "Southeast Personal Care Home",
+        "address":  "1265 Lee Boulevard, Winnipeg, R3T 2M3",
+        "operator":  "South East Tribal Council",
+        "generalBeds":  80,
+        "respiteBeds":  0,
+        "totalBeds":  80
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "St. Norbert Personal Care Home",
+        "address":  "50 St. Pierre Street, Winnipeg, R3V 1J6",
+        "operator":  "St. Norbert Personal Care Home Inc.",
+        "generalBeds":  91,
+        "respiteBeds":  0,
+        "totalBeds":  91
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "The Convalescent Home of Winnipeg",
+        "address":  "276 Hugo Street North, Winnipeg, R3M 2N6",
+        "operator":  "The Convalescent Home of Winnipeg",
+        "generalBeds":  84,
+        "respiteBeds":  0,
+        "totalBeds":  84
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "The Middlechurch Home of Winnipeg Inc.",
+        "address":  "280 Balderstone Road, West St. Paul, Manitoba, R4A 4A6",
+        "operator":  "Winnipeg Regional Health Authority",
+        "generalBeds":  197,
+        "respiteBeds":  0,
+        "totalBeds":  197
+    },
+    {
+        "sdoCode":  "WRHA",
+        "source":  "PCH BED MAP_LCB_WRHA_April 14, 2026 - Master List.xlsx",
+        "name":  "West Park Manor Personal Care Home",
+        "address":  "3199 Grant Avenue, Winnipeg, R3R 1X2",
+        "operator":  "West Park Manor Personal Care Home Inc.",
+        "generalBeds":  150,
+        "respiteBeds":  0,
+        "totalBeds":  150
+    }
+]
