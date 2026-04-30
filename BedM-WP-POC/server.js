@@ -194,7 +194,7 @@ function ensureSeeded() {
       });
     }
   }
-  if (APP_ENV === "demo") randomizeOpenBeds(beds, 0.4, timestamp);
+  if (APP_ENV === "demo") randomizeOpenBeds(beds, 0.1, timestamp);
 
   const firstSite = sites[0];
   const firstSdo = sdos.find(sdo => sdo.id === firstSite.sdoId);
