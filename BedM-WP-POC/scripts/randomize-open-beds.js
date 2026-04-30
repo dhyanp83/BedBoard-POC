@@ -3,7 +3,7 @@ const path = require("path");
 
 const dbFile = path.join(__dirname, "..", "data", "db.json");
 const db = JSON.parse(fs.readFileSync(dbFile, "utf8"));
-const targetRate = Number(process.argv[2] || 0.4);
+const targetRate = Number(process.argv[2] || 0.9);
 const targetOpen = Math.round(db.beds.length * targetRate);
 const admin = db.users.find(user => user.role === "ADMIN") || db.users[0];
 
